@@ -1,0 +1,26 @@
+.body {
+    background-color: #fcfcfc;
+}
+
+.title,
+.sub_title,
+.post_title {
+    color: blue;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post {
+    background-color: #FFF;
+    padding: 10px;
+    border: 3px solid blue;
+    margin: 10px;
+}
+
+.fotoApresent {
+    border: 1px solid black;
+    border-radius: 50%;
+}
